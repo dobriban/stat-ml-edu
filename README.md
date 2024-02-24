@@ -1,4 +1,4 @@
-# Statistics and machine learning: from advanced undergraduate to research level
+# Statistics and machine learning: from undergraduate to research
 
 This repository contains links to references (books, courses, etc) that are useful for learning in statistics and machine learning (as well as in some neighboring topics).
 References for background materials such as linear algebra, calculus/analysis/measure theory, probability theory, etc, are usually not included.
