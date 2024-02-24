@@ -7,6 +7,7 @@ It is hoped that the list benefits students and lifelong learners.
 The list is highly incomplete and subjective, reflecting my own preferences, interests and biases. For instance, there is an emphasis on theoretical materials.
 Please feel free to contact me with suggestions.
 
-
-
+# Statistics
+- [Casella & Berger, Statistical Inference (2nd Edition)](https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126) - The best introduction to the principles of statistical inference at an advanced undergraduate level.
+- 
 
