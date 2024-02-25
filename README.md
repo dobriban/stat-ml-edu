@@ -36,7 +36,6 @@ It is hoped that the list benefits students, researchers seeking to enter new ar
 #### Non-parametrics, minimax lower bounds
 - [Tsybakov: Introduction to Nonparametric Estimation](https://www.amazon.com/Introduction-Nonparametric-Estimation-Springer-Statistics/dp/0387790519) - The first two chapters contain many core results and techniques in nonparametric estimation, including lower bounds (Le Cam, Fano, Assouad).
 - Weissman, Ozgur, Han: Stanford EE 378 Course Materials. [Lecture Notes](https://theinformaticists.com/category/blog/online-lectures/) - Possibly the most comprehensive set of materials on information theoretic lower bounds, including estimation and testing (Ingster's method) with examples given in high-dimensional problems, optimization, etc. 
-- [Duchi: Lecture Notes on Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) - Section II is another good reference on lower bounds.
 - [Johnstone: Gaussian estimation: Sequence and wavelet models](https://imjohnstone.su.domains/GE_08_09_17.pdf) - Beautiful overview of estimation in Gaussian noise (shrinkage, wavelet thresholding, optimality). Rigorous and has challenging exercises.
 
 #### Semiparametrics
@@ -44,7 +43,10 @@ It is hoped that the list benefits students, researchers seeking to enter new ar
 - [Kosorok: Introduction to Empirical Processes and Semiparametric Inference](https://www.amazon.com/Introduction-Empirical-Processes-Semiparametric-Statistics/dp/0387749772) - Detailed and rigorous introduction to semiparametrics, also containing the required background from empirical process theory. A number of detailed examples are presented, which greatly aid appreciating the power of the theory.
 - [Bickel, Klaassen, Ritov, Wellner: Efficient and Adaptive Estimation for Semiparametric Models](https://www.amazon.com/Efficient-Adaptive-Estimation-Semiparametric-Models/dp/0387984739/) - Thorough and rigorous, but also heavy, treatise on semi-parametrics; including some required background on local asymptotic normality. The first few chapters present the general theory and and can be focused on during a first reading.
 
-#### Multivariate Statistical Analysis
+#### Overviews of statistical machine learning theory
+- [Duchi: Lecture Notes on Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) - Eclectic modern topics in modern statistical learning: intro to information theory tools, PAC-Bayes, minimax lower bounds (estimation and testing), probabilistic prediction, calibration, online game playing, online optimization.
+
+#### Multivariate statistical analysis
 - [Anderson: An Introduction to Multivariate Statistical Analysis](https://www.amazon.com/Introduction-Multivariate-Statistical-Analysis/dp/0471360910) - Standard reference on multivariate statistical analysis (OLS, LDA, PCA, factor analysis, MANOVA). Describes practical methods with mathematical rigor. Beautifully written.
 
 #### Subsampling
@@ -58,6 +60,7 @@ It is hoped that the list benefits students, researchers seeking to enter new ar
 ## ML Theory
 - [Shalev-Shwartz & Ben-David: Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) - Good single reference source of core machine learning theory ideas and results.
 - [Srebro: Computational and Statistical Learning Theory](https://home.ttic.edu/~nati/Teaching/TTIC31120/2016/) - Great course materials on Statistical/PAC  learning, online learning, crypto lower bounds.
+- [Orabona: A Modern Introduction to Online Learning](https://arxiv.org/abs/1912.13213)
 
 ## Deep Learning
 ### DL Practice
