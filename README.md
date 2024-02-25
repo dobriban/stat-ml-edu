@@ -44,7 +44,7 @@ It is hoped that the list benefits students, researchers seeking to enter new ar
 - [Bickel, Klaassen, Ritov, Wellner: Efficient and Adaptive Estimation for Semiparametric Models](https://www.amazon.com/Efficient-Adaptive-Estimation-Semiparametric-Models/dp/0387984739/) - Thorough and rigorous, but also heavy, treatise on semi-parametrics; including some required background on local asymptotic normality. The first few chapters present the general theory and and can be focused on during a first reading.
 
 #### Overviews of statistical machine learning theory
-- [Duchi: Lecture Notes on Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) - Eclectic modern topics in modern statistical learning: intro to information theory tools, PAC-Bayes, minimax lower bounds (estimation and testing), probabilistic prediction, calibration, online game playing, online optimization.
+- [Duchi: Lecture Notes on Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) - Eclectic modern topics in modern statistical learning, at the interface of stats and ML: intro to information theory tools, PAC-Bayes, minimax lower bounds (estimation and testing), probabilistic prediction, calibration, online game playing, online optimization, etc.
 
 #### Multivariate statistical analysis
 - [Anderson: An Introduction to Multivariate Statistical Analysis](https://www.amazon.com/Introduction-Multivariate-Statistical-Analysis/dp/0471360910) - Standard reference on multivariate statistical analysis (OLS, LDA, PCA, factor analysis, MANOVA). Describes practical methods with mathematical rigor. Beautifully written.
