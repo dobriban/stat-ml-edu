@@ -91,6 +91,12 @@ This is subject to active development and research. There is no complete referen
 - [Nesterov: Introductory Lectures on Convex Optimization: A Basic Course](https://www.amazon.com/Introductory-Lectures-Convex-Optimization-Applied/dp/1402075537/) - A deep dive into convex optimization theory, including optimality results.
 - [Duchi: Introductory Lectures on Stochastic Optimization](https://stanford.edu/~jduchi/PCMIConvex/Duchi16.pdf)
 
+## Probability
+### Concentration inequalities
+- [Boucheron, Lugosi, Massart: Concentration Inequalities: A Nonasymptotic Theory of Independence](https://www.amazon.com/Concentration-Inequalities-Nonasymptotic-Theory-Independence/dp/019876765X/) - Standard reference on concentration inequalities, very useful in proofs in the area.
+
+### Chaining
+- [Talagrand: Upper and Lower Bounds for Stochastic Processes](https://michel.talagrand.net/ULB.pdf) - Readable, but rigorous and complete.
 
 
 
