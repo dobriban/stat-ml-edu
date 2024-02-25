@@ -3,8 +3,10 @@
 This repository contains links to references (books, courses, etc) that are useful for learning statistics and machine learning (as well as some neighboring topics).
 References for background materials such as linear algebra, calculus/analysis/measure theory, probability theory, etc, are usually not included.
 The level of the references starts from advanced undergraduate stats/math/CS and in some cases goes up to the research level.
-It is hoped that the list benefits students and lifelong learners.
+It is hoped that the list benefits students, researchers seeking to enter new areas, and lifelong learners.
 The list is highly subjective and incomplete, reflecting my own preferences, interests and biases. For instance, there is an emphasis on theoretical materials. Several topics are omitted due to lack of expertise (e.g., causal inference, Bayesian statistics, functional data analysis, biostatistics, ...).
+The links are to freely available author copies if those are available, or to online marketplaces otherwise (you are encouraged to search for the best price).
+
 Please feel free to contact me with suggestions.
 
 
@@ -67,7 +69,6 @@ This is subject to active development and research. There is no complete referen
 
 - [Boyd and Vandenberghe: Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) - Good user and algorithm-focused book on convex optimization. Mathematically rigorous and clean, but does not go deep in the theory.
 - [Nesterov: Introductory Lectures on Convex Optimization: A Basic Course](https://www.amazon.com/Introductory-Lectures-Convex-Optimization-Applied/dp/1402075537/) - A deep dive into convex optimization theory, including optimality results.
-- 
 
 
 
