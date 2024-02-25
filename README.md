@@ -4,6 +4,7 @@ This repository contains links to references (books, courses, etc) that are usef
 References for background materials such as linear algebra, calculus/analysis/measure theory, probability theory, etc, are usually not included.
 The level of the references starts from advanced undergraduate stats/math/CS and in some cases goes up to the research level.
 It is hoped that the list benefits students, researchers seeking to enter new areas, and lifelong learners.
+
 The list is highly subjective and incomplete, reflecting my own preferences, interests and biases. For instance, there is an emphasis on theoretical materials. Most of the references included here are something that I have at least partially (and sometimes extensively) studied; and found helpful. Several topics are omitted due to lack of expertise (e.g., causal inference, Bayesian statistics, functional data analysis, biostatistics, ...).
 The links are to freely available author copies if those are available, or to online marketplaces otherwise (you are encouraged to search for the best price).
 
