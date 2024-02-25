@@ -60,6 +60,11 @@ It is hoped that the list benefits students, researchers seeking to enter new ar
 #### Empirical processes
 - [van der Vaart, Wellner: Weak convergence and empirical processes](https://www.amazon.com/Weak-Convergence-Empirical-Processes-Applications/dp/0387946403) - Thorough and mathematically fully rigorous (sometimes technically heavy) book on empirical processes; key reference when working in the area.
 
+#### High dimensional (mean field, proportional limit) asymptotics; random matrix theory (RMT) for stats+ML
+- [Mei: Letcure Notes for Mean Field Asymptotics in Statistical Learning](https://www.stat.berkeley.edu/~songmei/Teaching/STAT260_Spring2021/index.html) - Good overview of various techniques in the area: replica methods, Gaussian comparison inequalities/Convex Gaussian Minimax Theorem, Stieltjes transforms for random matrices, and approximate message passing (AMP).
+
+
+
 # Machine Learning
 
 ## ML Theory
