@@ -27,7 +27,7 @@ Please feel free to contact me with suggestions.
 ### Advanced Theory
 #### Non-parametrics, minimax lower bounds
 - [Tsybakov: Introduction to Nonparametric Estimation](https://www.amazon.com/Introduction-Nonparametric-Estimation-Springer-Statistics/dp/0387790519) - The first two chapters contain many core results and techniques in nonparametric estimation, including lower bounds (Le Cam, Fano, Assouad).
-- Weissman, Ozgur, Han: Stanford EE 378 Course Materials. [Lecture Notes](https://theinformaticists.com/category/blog/online-lectures/) - Possibly the most comprehensive set of materials on information theoretic lower bounds, including estimation and testing (Ingster's method) for high-dimensional problems, optimization, etc. 
+- Weissman, Ozgur, Han: Stanford EE 378 Course Materials. [Lecture Notes](https://theinformaticists.com/category/blog/online-lectures/) - Possibly the most comprehensive set of materials on information theoretic lower bounds, including estimation and testing (Ingster's method) with examples given in high-dimensional problems, optimization, etc. 
 - [Duchi: Lecture Notes on Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) - Section II is another good reference on lower bounds.
 
 #### Semiparametrics
