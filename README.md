@@ -56,6 +56,7 @@ Please feel free to contact me with suggestions.
 
 ## Deep Learning
 ### DL Practice
+- [Courses at Deeplearning.ai](https://www.deeplearning.ai/)
 
 ### DL Theory 
 This is subject to active development and research. There is no complete reference.
