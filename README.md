@@ -42,7 +42,7 @@ It is hoped that the list benefits students, researchers seeking to enter new ar
 #### Overviews of statistical machine learning theory
 - [Duchi: Lecture Notes on Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) - Eclectic modern topics in modern statistical learning, at the interface of stats and ML: intro to information theory tools, PAC-Bayes, minimax lower bounds (estimation and testing), probabilistic prediction, calibration, online game playing, online optimization, etc.
 - [Bach: Learning Theory from First Principles](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
-- [RJ. Tibshirani: Lecture Notes on Advanced Topics in Statistical Learning: Spring 2023](https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/) - Overview of a variety of important dna modern topics in statistical machine learning.
+- [RJ Tibshirani: Lecture Notes on Advanced Topics in Statistical Learning: Spring 2023](https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/) - Overview of a variety of important dna modern topics in statistical machine learning.
 
 #### Semiparametrics
 - [van der Vaart: Semiparametric Statistics, Chapter III of Lectures at Ecole d'Ete de Probabilites de Saint-Flour XXIX, 1999](https://www.amazon.com/Lectures-Probability-Theory-Statistics-Bolthausen/dp/3540437363) - Concise and mathematically rigorous introduction to key ideas in semiparametrics.
