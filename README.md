@@ -10,7 +10,7 @@ The list is highly subjective and incomplete, reflecting my own preferences, int
 
 The links are to freely available author copies if those are available, or to online marketplaces otherwise (you are encouraged to search for the best price).
 
-Please feel free to contact me with suggestions.
+Please feel free to contact [me](https://statistics.wharton.upenn.edu/profile/dobriban/) with suggestions.
 
 
 
