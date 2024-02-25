@@ -5,10 +5,10 @@ by [Edgar Dobriban, Associate Prof. of Statistics & Data Science, Wharton, Univ.
 - This repository contains links to references (books, courses, etc) that are useful for learning statistics and machine learning (as well as some neighboring topics).
 References for background materials such as linear algebra, calculus/analysis/measure theory, probability theory, etc, are usually not included.
 
-- The level of the references starts from advanced undergraduate stats/math/CS and in some cases goes up to the research level. The books are often standard references and textbooks, used at leading institutions. In particular, several of the books are used in the standard curriculum of the PhD program in Statistics at Stanford University (where I learned from them as well).
+- The level of the references starts from advanced undergraduate stats/math/CS and in some cases goes up to the research level. The books are often standard references and textbooks, used at leading institutions. In particular, several of the books are used in the standard curriculum of the PhD program in Statistics at Stanford University (where I learned from them as well), as well as at the University of Pennsylvania (where I work).
 It is hoped that the list benefits students, researchers seeking to enter new areas, and lifelong learners.
 
-- The list is highly subjective and incomplete, reflecting my own preferences, interests and biases. For instance, there is an emphasis on theoretical material. Most of the references included here are something that I have at least partially (and sometimes extensively) studied; and found helpful. Several topics are omitted due to lack of expertise (e.g., causal inference, Bayesian statistics, functional data analysis, biostatistics, ...).
+- The list is highly subjective and incomplete, reflecting my own preferences, interests and biases. For instance, there is an emphasis on theoretical material. Most of the references included here are something that I have at least partially (and sometimes extensively) studied; and found helpful. Others are on my to-read list. Several topics are omitted due to lack of expertise (e.g., causal inference, Bayesian statistics, time series, sequential decision-making, functional data analysis, biostatistics, ...).
 
 - The links are to freely available author copies if those are available, or to online marketplaces otherwise (you are encouraged to search for the best price).
 
