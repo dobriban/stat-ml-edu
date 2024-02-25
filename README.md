@@ -34,6 +34,7 @@ It is hoped that the list benefits students, researchers seeking to enter new ar
 - [Candes: Theory of Statistics, STAT 300C Lecture Notes](https://candes.su.domains/teaching/stats300c/) - Modern statistical theory: sparsity, multiple testing, false discovery rate control, model selection, conformal prediction, etc.
 
 ### Advanced Theory
+This section is the most detailed one, as it is the closest to my research.
 #### Non-parametrics, minimax lower bounds
 - [Tsybakov: Introduction to Nonparametric Estimation](https://www.amazon.com/Introduction-Nonparametric-Estimation-Springer-Statistics/dp/0387790519) - The first two chapters contain many core results and techniques in nonparametric estimation, including lower bounds (Le Cam, Fano, Assouad).
 - Weissman, Ozgur, Han: Stanford EE 378 Course Materials. [Lecture Notes](https://theinformaticists.com/category/blog/online-lectures/) - Possibly the most comprehensive set of materials on information theoretic lower bounds, including estimation and testing (Ingster's method) with examples given in high-dimensional problems, optimization, etc. 
@@ -61,9 +62,9 @@ It is hoped that the list benefits students, researchers seeking to enter new ar
 - [van der Vaart, Wellner: Weak convergence and empirical processes](https://www.amazon.com/Weak-Convergence-Empirical-Processes-Applications/dp/0387946403) - Thorough and mathematically fully rigorous (sometimes technically heavy) book on empirical processes; key reference when working in the area.
 
 #### High dimensional (mean field, proportional limit) asymptotics; random matrix theory (RMT) for stats+ML
-- [Mei: Letcure Notes for Mean Field Asymptotics in Statistical Learning](https://www.stat.berkeley.edu/~songmei/Teaching/STAT260_Spring2021/index.html) - Good overview of various techniques in the area: replica methods, Gaussian comparison inequalities/Convex Gaussian Minimax Theorem, Stieltjes transforms for random matrices, and approximate message passing (AMP).
-
-
+- [Mei: Lecture Notes for Mean Field Asymptotics in Statistical Learning](https://www.stat.berkeley.edu/~songmei/Teaching/STAT260_Spring2021/index.html) - Good overview of various techniques in the area: replica methods, Gaussian comparison inequalities/Convex Gaussian Minimax Theorem, Stieltjes transforms for random matrices, and approximate message passing (AMP). Several applications to stats+ML are presented.
+- [Couillet & Debbah: Random Matrix Methods for Wireless Communications](https://www.amazon.com/Random-Matrix-Methods-Wireless-Communications/dp/1107011639) - The first section is a good overview of the most commonly used RMT techniques and results for stats+ML. Strikes an ideal balance between rigor and clarity (Statements are rigorous, detailed proof sketches are presented, but some of the most technical proof components are omitted and references to papers are given).
+- [Bai & Silverstein: Spectral Analysis of Large Dimensional Random Matrices](https://www.amazon.com/Spectral-Analysis-Dimensional-Matrices-Statistics/dp/1441906606) - A standard reference in the field, with citable results stated at full generality, and with proofs. Nonetheless, requires filling in details of calculations/arguments, which can take a lot of effort for students.
 
 # Machine Learning
 
