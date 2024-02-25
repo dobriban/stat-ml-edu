@@ -10,25 +10,27 @@ Please feel free to contact me with suggestions.
 
 
 # Statistics
-## Principles
+## Principles and overview
 - [Casella & Berger: Statistical Inference (2nd Edition)](https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126) - The best introduction to the principles of statistical inference at an advanced undergraduate level. Mathematically rigorous but not technical.
+- [Wasserman: All of Statistics: A Concise Course in Statistical Inference](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/1441923225) - A panoramic overview of statistics; mathematical but proofs are omitted. Covers material overlapping with ESL, TSH, TPE, and other books in this list.
 - [Cox: Principles of Statistical Inference](https://www.amazon.com/Principles-Statistical-Inference-D-Cox/dp/0521685672) - Covers a number of classical principles and ideas such as pivotal inference, ancillarity, conditioning. Light on math, but containing deep thoughts.
 
 
 ## Statistical Methodology
-- [Hastie, Tibshirani & Friedman: The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf) - The bible of modern statistical methodology, comprehensive coverage from linear methods to kernels, basis expansions, trees/forests, model selection, high-dimensional methods, etc. Emphasizes ideas over math. Free on author's website.
+- [Hastie, Tibshirani & Friedman: The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf) - The bible of modern statistical methodology, comprehensive coverage from linear methods to kernels, basis expansions, trees/forests, model selection, high-dimensional methods, etc. Emphasizes ideas over math. Free on author's website. Known as "ESL".
 
 ## Statistical Theory
 ### Core Theory: First Year PhD Curriculum
 - [Lehmann & Casella: Theory of Point Estimation, 2nd Edition](https://www.amazon.com/Theory-Point-Estimation-Springer-Statistics/dp/0387985026) - Solid mathematically rigoros overview of point estimation theory. Known as "TPE".
 - [Lehmann & Casella: Testing Statistical Hypotheses, 4th Edition](https://www.amazon.com/Testing-Statistical-Hypotheses-Springer-Statistics-dp-3030705773/dp/3030705773) - A complement to TPE, covers the theory of inference (hypothesis tests and confidence intervals). Known as "TSH".
-- [van der Vaart: Asymptotic Statistics](https://www.amazon.com/Asymptotic-Statistics-Statistical-Probabilistic-Mathematics/dp/0521784506) - Covers classical fixed-dimensional asymptotics.
+- [van der Vaart: Asymptotic Statistics](https://www.amazon.com/Asymptotic-Statistics-Statistical-Probabilistic-Mathematics/dp/0521784506) - Covers classical fixed-dimensional asymptotics. 
 
 ### Advanced Theory
 #### Non-parametrics, minimax lower bounds
 - [Tsybakov: Introduction to Nonparametric Estimation](https://www.amazon.com/Introduction-Nonparametric-Estimation-Springer-Statistics/dp/0387790519) - The first two chapters contain many core results and techniques in nonparametric estimation, including lower bounds (Le Cam, Fano, Assouad).
 - Weissman, Ozgur, Han: Stanford EE 378 Course Materials. [Lecture Notes](https://theinformaticists.com/category/blog/online-lectures/) - Possibly the most comprehensive set of materials on information theoretic lower bounds, including estimation and testing (Ingster's method) with examples given in high-dimensional problems, optimization, etc. 
 - [Duchi: Lecture Notes on Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) - Section II is another good reference on lower bounds.
+- [Gaussian estimation: Sequence and wavelet models](https://imjohnstone.su.domains/GE_08_09_17.pdf) - Beautiful overview of estimation in Gaussian noise (shrinkage, wavelet thresholding, optimality). Rigorous and has challenging exercises.
 
 #### Semiparametrics
 - [van der Vaart: Semiparametric Statistics, Chapter III of Lectures at Ecole d'Ete de Probabilites de Saint-Flour XXIX, 1999](https://www.amazon.com/Lectures-Probability-Theory-Statistics-Bolthausen/dp/3540437363) - Concise and mathematically rigorous introduction to key ideas in semiparametrics.
@@ -38,6 +40,8 @@ Please feel free to contact me with suggestions.
 #### Multivariate Statistical Analysis
 - [Anderson - An Introduction to Multivariate Statistical Analysis](https://www.amazon.com/Introduction-Multivariate-Statistical-Analysis/dp/0471360910) - Standard reference on multivariate statistical analysis (OLS, LDA, PCA, factor analysis, MANOVA). Describes practical methods with mathematical rigor. Beautifully written.
 
+#### Subsampling
+- [Polits, Romano, Wolf - Subsampling]
 
 # Machine Learning
 
