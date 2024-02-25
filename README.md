@@ -33,6 +33,7 @@ Please feel free to contact me with suggestions.
 #### Semiparametrics
 - [van der Vaart: Semiparametric Statistics, Chapter III of Lectures at Ecole d'Ete de Probabilites de Saint-Flour XXIX, 1999](https://www.amazon.com/Lectures-Probability-Theory-Statistics-Bolthausen/dp/3540437363) - Concise and mathematically rigorous introduction to key ideas in semiparametrics.
 - [Kosorok: Introduction to Empirical Processes and Semiparametric Inference](https://www.amazon.com/Introduction-Empirical-Processes-Semiparametric-Statistics/dp/0387749772) - Detailed and rigorous introduction to semiparametrics, also containing the required background from empirical process theory. A number of detailed examples are presented, which greatly aid appreciating the power of the theory.
+- [Bickel, Klaassen, Ritov, Wellner: Efficient and Adaptive Estimation for Semiparametric Models](https://www.amazon.com/Efficient-Adaptive-Estimation-Semiparametric-Models/dp/0387984739/) - Thorough and rigorous, but also heavy, treatise on semi-parametrics; including some required background on local asymptotic normality. The first few chapters present the general theory and and can be focused on during a first reading.
 
 #### Multivariate Statistical Analysis
 - [Anderson - An Introduction to Multivariate Statistical Analysis](https://www.amazon.com/Introduction-Multivariate-Statistical-Analysis/dp/0471360910) - Standard reference on multivariate statistical analysis (OLS, LDA, PCA, factor analysis, MANOVA). Describes practical methods with mathematical rigor. Beautifully written.
