@@ -36,15 +36,18 @@ It is hoped that the list benefits students, researchers seeking to enter new ar
 #### Non-parametrics, minimax lower bounds
 - [Tsybakov: Introduction to Nonparametric Estimation](https://www.amazon.com/Introduction-Nonparametric-Estimation-Springer-Statistics/dp/0387790519) - The first two chapters contain many core results and techniques in nonparametric estimation, including lower bounds (Le Cam, Fano, Assouad).
 - Weissman, Ozgur, Han: Stanford EE 378 Course Materials. [Lecture Notes](https://theinformaticists.com/category/blog/online-lectures/) - Possibly the most comprehensive set of materials on information theoretic lower bounds, including estimation and testing (Ingster's method) with examples given in high-dimensional problems, optimization, etc. 
-- [Johnstone: Gaussian estimation: Sequence and wavelet models](https://imjohnstone.su.domains/GE_08_09_17.pdf) - Beautiful overview of estimation in Gaussian noise (shrinkage, wavelet thresholding, optimality). Rigorous and has challenging exercises.
+- [Johnstone: Gaussian estimation: Sequence and wavelet models](https://imjohnstone.su.domains/GE_08_09_17.pdf) - Beautiful overview of estimation in Gaussian noise (shrinkage, wavelet thresholding, optimality). Rigorous and deep, has challenging exercises.
+
+
+#### Overviews of statistical machine learning theory
+- [Duchi: Lecture Notes on Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) - Eclectic modern topics in modern statistical learning, at the interface of stats and ML: intro to information theory tools, PAC-Bayes, minimax lower bounds (estimation and testing), probabilistic prediction, calibration, online game playing, online optimization, etc.
+- [Bach: Learning Theory from First Principles](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
 
 #### Semiparametrics
 - [van der Vaart: Semiparametric Statistics, Chapter III of Lectures at Ecole d'Ete de Probabilites de Saint-Flour XXIX, 1999](https://www.amazon.com/Lectures-Probability-Theory-Statistics-Bolthausen/dp/3540437363) - Concise and mathematically rigorous introduction to key ideas in semiparametrics.
 - [Kosorok: Introduction to Empirical Processes and Semiparametric Inference](https://www.amazon.com/Introduction-Empirical-Processes-Semiparametric-Statistics/dp/0387749772) - Detailed and rigorous introduction to semiparametrics, also containing the required background from empirical process theory. A number of detailed examples are presented, which greatly aid appreciating the power of the theory.
 - [Bickel, Klaassen, Ritov, Wellner: Efficient and Adaptive Estimation for Semiparametric Models](https://www.amazon.com/Efficient-Adaptive-Estimation-Semiparametric-Models/dp/0387984739/) - Thorough and rigorous, but also heavy, treatise on semi-parametrics; including some required background on local asymptotic normality. The first few chapters present the general theory and and can be focused on during a first reading.
 
-#### Overviews of statistical machine learning theory
-- [Duchi: Lecture Notes on Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) - Eclectic modern topics in modern statistical learning, at the interface of stats and ML: intro to information theory tools, PAC-Bayes, minimax lower bounds (estimation and testing), probabilistic prediction, calibration, online game playing, online optimization, etc.
 
 #### Multivariate statistical analysis
 - [Anderson: An Introduction to Multivariate Statistical Analysis](https://www.amazon.com/Introduction-Multivariate-Statistical-Analysis/dp/0471360910) - Standard reference on multivariate statistical analysis (OLS, LDA, PCA, factor analysis, MANOVA). Describes practical methods with mathematical rigor. Beautifully written.
@@ -78,6 +81,7 @@ This is subject to active development and research. There is no complete referen
 
 - [Boyd and Vandenberghe: Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) - Good user and algorithm-focused book on convex optimization. Mathematically rigorous and clean, but does not go deep in the theory.
 - [Nesterov: Introductory Lectures on Convex Optimization: A Basic Course](https://www.amazon.com/Introductory-Lectures-Convex-Optimization-Applied/dp/1402075537/) - A deep dive into convex optimization theory, including optimality results.
+- [Duchi: Introductory Lectures on Stochastic Optimization](https://stanford.edu/~jduchi/PCMIConvex/Duchi16.pdf)
 
 
 
