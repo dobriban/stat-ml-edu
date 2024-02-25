@@ -35,7 +35,7 @@ Please feel free to contact [me](https://statistics.wharton.upenn.edu/profile/do
 - [Tsybakov: Introduction to Nonparametric Estimation](https://www.amazon.com/Introduction-Nonparametric-Estimation-Springer-Statistics/dp/0387790519) - The first two chapters contain many core results and techniques in nonparametric estimation, including lower bounds (Le Cam, Fano, Assouad).
 - Weissman, Ozgur, Han: Stanford EE 378 Course Materials. [Lecture Notes](https://theinformaticists.com/category/blog/online-lectures/) - Possibly the most comprehensive set of materials on information theoretic lower bounds, including estimation and testing (Ingster's method) with examples given in high-dimensional problems, optimization, etc. 
 - [Duchi: Lecture Notes on Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) - Section II is another good reference on lower bounds.
-- [Gaussian estimation: Sequence and wavelet models](https://imjohnstone.su.domains/GE_08_09_17.pdf) - Beautiful overview of estimation in Gaussian noise (shrinkage, wavelet thresholding, optimality). Rigorous and has challenging exercises.
+- [Johnstone: Gaussian estimation: Sequence and wavelet models](https://imjohnstone.su.domains/GE_08_09_17.pdf) - Beautiful overview of estimation in Gaussian noise (shrinkage, wavelet thresholding, optimality). Rigorous and has challenging exercises.
 
 #### Semiparametrics
 - [van der Vaart: Semiparametric Statistics, Chapter III of Lectures at Ecole d'Ete de Probabilites de Saint-Flour XXIX, 1999](https://www.amazon.com/Lectures-Probability-Theory-Statistics-Bolthausen/dp/3540437363) - Concise and mathematically rigorous introduction to key ideas in semiparametrics.
