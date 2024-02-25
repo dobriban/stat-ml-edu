@@ -52,7 +52,7 @@ Please feel free to contact me with suggestions.
 
 ## ML Theory
 - [Shalev-Shwartz & Ben-David: Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) - Good single reference source of core machine learning theory ideas and results.
-- [Srebro: Computational and Statistical Learning Theory](https://home.ttic.edu/~nati/Teaching/TTIC31120/2016/) - Great course materials on Statistical/PAC  learning, online learning, crypto lowe bounds.
+- [Srebro: Computational and Statistical Learning Theory](https://home.ttic.edu/~nati/Teaching/TTIC31120/2016/) - Great course materials on Statistical/PAC  learning, online learning, crypto lower bounds.
 
 ## Deep Learning
 ### DL Practice
