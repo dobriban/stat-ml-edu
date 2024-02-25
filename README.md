@@ -20,13 +20,15 @@ Please feel free to contact me with suggestions.
 
 ## Statistical Theory
 ### Core Theory: First Year PhD Curriculum
-- [Lehmann & Casella: Theory of Point Estimation, 2nd Edition](https://www.amazon.com/Theory-Point-Estimation-Springer-Statistics/dp/0387985026) - Solid mathematically rigoros overview of point estimation theory. Known as "TPE"
-- [Lehmann & Casella: Testing Statistical Hypotheses, 4th Edition](https://www.amazon.com/Testing-Statistical-Hypotheses-Springer-Statistics-dp-3030705773/dp/3030705773) - A complement to TPE, covers the theory of inference (hypothesis tests and confidence intervals).
+- [Lehmann & Casella: Theory of Point Estimation, 2nd Edition](https://www.amazon.com/Theory-Point-Estimation-Springer-Statistics/dp/0387985026) - Solid mathematically rigoros overview of point estimation theory. Known as "TPE".
+- [Lehmann & Casella: Testing Statistical Hypotheses, 4th Edition](https://www.amazon.com/Testing-Statistical-Hypotheses-Springer-Statistics-dp-3030705773/dp/3030705773) - A complement to TPE, covers the theory of inference (hypothesis tests and confidence intervals). Known as "TSH".
 - [van der Vaart: Asymptotic Statistics](https://www.amazon.com/Asymptotic-Statistics-Statistical-Probabilistic-Mathematics/dp/0521784506) - Covers classical fixed-dimensional asymptotics.
 
 ### Advanced Theory
-#### Non-parametrics
-- [Tsybakov: Introduction to Nonparametric Estimation](https://www.amazon.com/Introduction-Nonparametric-Estimation-Springer-Statistics/dp/0387790519) - The first two chapters contain many core results and techniques in nonparametric estimation, including lower bounds.
+#### Non-parametrics, minimax lower bounds
+- [Tsybakov: Introduction to Nonparametric Estimation](https://www.amazon.com/Introduction-Nonparametric-Estimation-Springer-Statistics/dp/0387790519) - The first two chapters contain many core results and techniques in nonparametric estimation, including lower bounds (Le Cam, Fano, Assouad).
+- Weissman, Ozgur, Han: Stanford EE 378 Course Materials. [Lecture Notes](https://theinformaticists.com/category/blog/online-lectures/) - Possibly the most comprehensive set of materials on information theoretic lower bounds, including estimation and testing (Ingster's method) for high-dimensional problems, optimization, etc. 
+- [Duchi: Lecture Notes on Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) - Section II is another good reference on lower bounds.
 
 #### Semiparametrics
 
@@ -34,9 +36,11 @@ Please feel free to contact me with suggestions.
 # Machine Learning
 
 ## ML Theory
-- [Shalev-Shwartz & Ben-David: Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) - Probably the best single source of core machine learning theory ideas and results/
+- [Shalev-Shwartz & Ben-David: Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) - Probably the best single source of core machine learning theory ideas and results.
 
-# Optimization
+
+# Complements
+## Optimization
 
 - [Boyd and Vandenberghe: Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) - Good user and algorithm-focused book on convex optimization. Mathematically rigorous and clean, but does not go deep in the theory.
 - [Nesterov: Introductory Lectures on Convex Optimization: A Basic Course](https://www.amazon.com/Introductory-Lectures-Convex-Optimization-Applied/dp/1402075537/) - A deep dive into convex optimization theory, including optimality results.
