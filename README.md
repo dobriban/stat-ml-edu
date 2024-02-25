@@ -49,8 +49,18 @@ Please feel free to contact me with suggestions.
 # Machine Learning
 
 ## ML Theory
-- [Shalev-Shwartz & Ben-David: Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) - Probably the best single source of core machine learning theory ideas and results.
+- [Shalev-Shwartz & Ben-David: Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) - Good single reference source of core machine learning theory ideas and results.
+- [Srebro: Computational and Statistical Learning Theory](https://home.ttic.edu/~nati/Teaching/TTIC31120/2016/) - Great course materials on Statistical/PAC  learning, online learning, crypto lowe bounds.
 
+## Deep Learning
+### DL Practice
+
+### DL Theory 
+This is subject to active development and research. There is no complete reference.
+- [Telgarsky: Deep learning theory lecture notes](https://mjt.cs.illinois.edu/dlt/)
+
+## Uncertainty quantification
+- [Dobriban's course materials for STAT 991](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning)
 
 # Complements
 ## Optimization
