@@ -38,10 +38,13 @@ Please feel free to contact me with suggestions.
 - [Bickel, Klaassen, Ritov, Wellner: Efficient and Adaptive Estimation for Semiparametric Models](https://www.amazon.com/Efficient-Adaptive-Estimation-Semiparametric-Models/dp/0387984739/) - Thorough and rigorous, but also heavy, treatise on semi-parametrics; including some required background on local asymptotic normality. The first few chapters present the general theory and and can be focused on during a first reading.
 
 #### Multivariate Statistical Analysis
-- [Anderson - An Introduction to Multivariate Statistical Analysis](https://www.amazon.com/Introduction-Multivariate-Statistical-Analysis/dp/0471360910) - Standard reference on multivariate statistical analysis (OLS, LDA, PCA, factor analysis, MANOVA). Describes practical methods with mathematical rigor. Beautifully written.
+- [Anderson: An Introduction to Multivariate Statistical Analysis](https://www.amazon.com/Introduction-Multivariate-Statistical-Analysis/dp/0471360910) - Standard reference on multivariate statistical analysis (OLS, LDA, PCA, factor analysis, MANOVA). Describes practical methods with mathematical rigor. Beautifully written.
 
 #### Subsampling
-- [Polits, Romano, Wolf - Subsampling]
+- [Polits, Romano, Wolf: Subsampling](https://www.amazon.com/Subsampling-Springer-Statistics-Dimitris-Politis/dp/0387988548) - Canonical reference for the powerful  resampling methodology of subsampling. 
+
+#### Empirical processes
+- [van der Vaart, Wellner: Weak convergence and empirical processes](https://www.amazon.com/Weak-Convergence-Empirical-Processes-Applications/dp/0387946403) - Thorough and mathematically fully rigorous (sometimes technically heavy) book on empirical processes; key reference when working in the area.
 
 # Machine Learning
 
