@@ -1,6 +1,6 @@
 # Statistics and machine learning: from undergraduate to research
 
-by [Edgar Dobriban, Associate Prof. of Statistics & Data Science, Wharton, Univ. of Pennsylvania](https://statistics.wharton.upenn.edu/profile/dobriban/)
+by [Edgar Dobriban, Associate Prof. of Statistics & Data Science, Wharton; w/ Secondary Appointment in Computer and Information Science, Univ. of Pennsylvania](https://statistics.wharton.upenn.edu/profile/dobriban/)
 
 - This repository contains links to references (books, courses, etc) that are useful for learning statistics and machine learning (as well as some neighboring topics).
 References for background materials such as linear algebra, calculus/analysis/measure theory, probability theory, etc, are usually not included.
