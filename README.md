@@ -12,6 +12,8 @@ It is hoped that the list benefits students, researchers seeking to enter new ar
 
 - The links are to freely available author copies if those are available, or to online marketplaces otherwise (you are encouraged to search for the best price).
 
+- How to use these materials to learn: To be an efficient researcher, certain core material must be mastered. However, there is so much specialized knowledge that it can be overwhelming to know it all. Fortunately, it is often enough to know what type of results/methods/tools are available, and where to find them. Then, at any point during a research project when they are needed, they can be recalled and used.
+
 - Please feel free to contact [me](https://statistics.wharton.upenn.edu/profile/dobriban/) with suggestions.
 
 
