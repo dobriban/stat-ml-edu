@@ -89,7 +89,7 @@ This is subject to active development and research. There is no complete referen
 
 - [Boyd and Vandenberghe: Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) - Good user- and algorithm-focused book on convex optimization. Mathematically rigorous and clean, but does not go deep in the theory.
 - [Nesterov: Introductory Lectures on Convex Optimization: A Basic Course](https://www.amazon.com/Introductory-Lectures-Convex-Optimization-Applied/dp/1402075537/) - A deep dive into convex optimization theory, including optimality results.
-- [Bottou, Curtis, Nocedal: Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/abs/1606.04838) - Good review focusing on scalable first order methods, such as SGD and variance-reduced methods. Has some proofs.
+- [Bottou, Curtis, Nocedal: Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/abs/1606.04838) - Good introductory review focusing on scalable first order methods, such as SGD and variance-reduced methods. Has some proofs.
 - [Duchi: Introductory Lectures on Stochastic Optimization](https://stanford.edu/~jduchi/PCMIConvex/Duchi16.pdf)
 
 ## Probability
