@@ -96,11 +96,11 @@ This is subject to active development and research. There is no complete referen
 
 ## Probability
 ### Concentration inequalities
-- [Boucheron, Lugosi, Massart: Concentration Inequalities: A Nonasymptotic Theory of Independence](https://www.amazon.com/Concentration-Inequalities-Nonasymptotic-Theory-Independence/dp/019876765X/) - Standard reference on concentration inequalities, very useful in proofs in the area.
+- [Boucheron, Lugosi, Massart: Concentration Inequalities: A Nonasymptotic Theory of Independence](https://www.amazon.com/Concentration-Inequalities-Nonasymptotic-Theory-Independence/dp/019876765X/) - Standard reference on concentration inequalities, used often in proofs in stats/ML.
 - [Vershynin: High-Dimensional Probability: An Introduction with Applications in Data Science](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html) - Another standard reference in the area, with citable and usable results. Also has some example applications to covariance estimation, graph estimation, etc.
 
 ### Chaining
-- [Talagrand: Upper and Lower Bounds for Stochastic Processes](https://michel.talagrand.net/ULB.pdf) - Readable, but rigorous and complete.
+- [Talagrand: Upper and Lower Bounds for Stochastic Processes](https://michel.talagrand.net/ULB.pdf) - Chaining is a theoretical tool invented by Talagrand, and can often give optimal bounds of the tail behavior of stochastic processes (even when standard concentration inequalities fail to do so). This is the a readable, but rigorous and complete reference by the inventor of the theory.
 
 
 
