@@ -21,8 +21,8 @@ It is hoped that the list benefits students, researchers seeking to enter new ar
 # Statistics
 ## Principles and overview
 - [Casella & Berger: Statistical Inference (2nd Edition)](https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126) - Possibly the best introduction to the principles of statistical inference at an advanced undergraduate level. Mathematically rigorous but not technical.
-- [Wasserman: All of Statistics: A Concise Course in Statistical Inference](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/1441923225) - A panoramic overview of statistics; mathematical but proofs are omitted. Covers material overlapping with ESL, TSH, TPE, and other books in this list.
-- [Cox: Principles of Statistical Inference](https://www.amazon.com/Principles-Statistical-Inference-D-Cox/dp/0521685672) - Covers a number of classical principles and ideas such as pivotal inference, ancillarity, conditioning. Light on math, but containing deep thoughts.
+- [Wasserman: All of Statistics: A Concise Course in Statistical Inference](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/1441923225) - A panoramic overview of statistics; mathematical but proofs are omitted. Covers material overlapping with ESL, TSH, TPE (abbreviations defined below), and other books in this list.
+- [Cox: Principles of Statistical Inference](https://www.amazon.com/Principles-Statistical-Inference-D-Cox/dp/0521685672) - Covers a number of classical principles and ideas such as pivotal inference, ancillarity, conditioning, including famous paradoxes. Light on math, but containing deep thoughts.
 
 
 ## Statistical Methodology
