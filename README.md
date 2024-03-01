@@ -5,7 +5,7 @@ by [Edgar Dobriban, Associate Prof. of Statistics & Data Science, Wharton; w/ Se
 - This repository contains links to references (books, courses, etc) that are useful for **learning statistics and machine learning** (as well as some neighboring topics).
 References for background materials such as linear algebra, calculus/analysis/measure theory, probability theory, etc, are usually not included.
 
-- The level of the references starts from **advanced undergraduate stats/math/CS** and in some cases goes **up to the research** level. The books are often **standard references and textbooks, used at leading institutions**. In particular, several of the books are used in the standard curriculum of the PhD program in Statistics at Stanford University (where I learned from them as well), as well as at the University of Pennsylvania (where I work).
+- The level of the references starts from **advanced undergraduate stats/math/CS** and in some cases goes **up to the research** level. The books are often **standard references and textbooks, used at leading institutions**. In particular, several of the books are used in the standard **curriculum of the PhD program in Statistics at Stanford University** (where I learned from them as well), as well as at the **University of Pennsylvania** (where I work).
 The goal is to benefit **students, researchers seeking to enter new areas, and lifelong learners**.
 
 -  For each topic, materials are listed in a rough order of from **basic to advanced**.
@@ -22,7 +22,11 @@ The goal is to benefit **students, researchers seeking to enter new areas, and l
 
 # Statistics
 ## Principles and overview
-- [Casella & Berger: Statistical Inference (2nd Edition)](https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126) - Possibly the best introduction to the principles of statistical inference at an advanced undergraduate level. Mathematically rigorous but not technical.
+- [Casella & Berger: Statistical Inference (2nd Edition)](https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126) - Possibly the best introduction to the principles of statistical inference at an advanced undergraduate level. Mathematically rigorous but not technical. Covers key ideas and tools for constructing and evaluating estimators:
+  - Data reduction (sufficiency, likelihood principle),
+  - Methods for finding estimators (method of moments, Maximum likelihood estimation, Bayes estimators), methods for evaluating estimators (mean squared error, bias and variance, best unbiased estimators, loss function optimality),
+  - Hypothesis testing (likelihood ratio tests, power), confidence intervals (pivotal quantities, coverage),
+  - Asymptotics (consistency, efficiency, bootstrap, robustness). 
 - [Wasserman: All of Statistics: A Concise Course in Statistical Inference](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/1441923225) - A panoramic overview of statistics; mathematical but proofs are omitted. Covers material overlapping with ESL, TSH, TPE (abbreviations defined below), and other books in this list.
 - [Cox: Principles of Statistical Inference](https://www.amazon.com/Principles-Statistical-Inference-D-Cox/dp/0521685672) - Covers a number of classical principles and ideas such as pivotal inference, ancillarity, conditioning, including famous paradoxes. Light on math, but containing deep thoughts.
 
@@ -48,11 +52,11 @@ This section is the most detailed one, as it is the closest to my research.
 #### Overviews of statistical machine learning theory
 - [Duchi: Lecture Notes on Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) - Eclectic modern topics in modern statistical learning, at the interface of stats and ML: intro to information theory tools, PAC-Bayes, minimax lower bounds (estimation and testing), probabilistic prediction, calibration, online game playing, online optimization, etc.
 - [Bach: Learning Theory from First Principles](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
-- [RJ Tibshirani: Lecture Notes on Advanced Topics in Statistical Learning: Spring 2023](https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/) - Overview of a variety of important dna modern topics in statistical machine learning.
+- [RJ Tibshirani: Lecture Notes on Advanced Topics in Statistical Learning: Spring 2023](https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/) - Overview of a variety of important dna modern topics in statistical machine learning. Some topics are advanced and hard to find summarized in other places, e.g., conformal prediction under distribution shift and calibration.
 
 #### Semiparametrics
-- [van der Vaart: Semiparametric Statistics, Chapter III of Lectures at Ecole d'Ete de Probabilites de Saint-Flour XXIX, 1999](https://www.amazon.com/Lectures-Probability-Theory-Statistics-Bolthausen/dp/3540437363) - Concise and mathematically rigorous introduction to key ideas in semiparametrics.
-- [Kosorok: Introduction to Empirical Processes and Semiparametric Inference](https://www.amazon.com/Introduction-Empirical-Processes-Semiparametric-Statistics/dp/0387749772) - Detailed and rigorous introduction to semiparametrics, also containing the required background from empirical process theory. A number of detailed examples are presented, which greatly aid appreciating the power of the theory.
+- [van der Vaart: Semiparametric Statistics, Chapter III of Lectures at Ecole d'Ete de Probabilites de Saint-Flour XXIX, 1999](https://www.amazon.com/Lectures-Probability-Theory-Statistics-Bolthausen/dp/3540437363) - Concise and mathematically rigorous introduction to key ideas in semiparametrics. Defines notions of tangent sets, influence functions, efficiency, etc.
+- [Kosorok: Introduction to Empirical Processes and Semiparametric Inference](https://www.amazon.com/Introduction-Empirical-Processes-Semiparametric-Statistics/dp/0387749772) - Detailed and rigorous introduction to semiparametrics, also containing the required background from empirical process theory (and necessary math background, such as topics from functional analysis). A number of detailed examples are presented, which greatly aid appreciating the power of the theory.
 - [Bickel, Klaassen, Ritov, Wellner: Efficient and Adaptive Estimation for Semiparametric Models](https://www.amazon.com/Efficient-Adaptive-Estimation-Semiparametric-Models/dp/0387984739/) - Thorough and rigorous, but also heavy, treatise on semi-parametrics; including some required background on local asymptotic normality. The first few chapters present the general theory and and can be focused on during a first reading.
 
 
