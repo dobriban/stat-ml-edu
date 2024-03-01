@@ -8,6 +8,8 @@ References for background materials such as linear algebra, calculus/analysis/me
 - The level of the references starts from **advanced undergraduate stats/math/CS** and in some cases goes **up to the research** level. The books are often **standard references and textbooks, used at leading institutions**. In particular, several of the books are used in the standard curriculum of the PhD program in Statistics at Stanford University (where I learned from them as well), as well as at the University of Pennsylvania (where I work).
 The goal is to benefit **students, researchers seeking to enter new areas, and lifelong learners**.
 
+-  For each topic, materials are listed in a rough order of from **basic to advanced**.
+  
 - The list is highly **subjective and incomplete**, reflecting my own preferences, interests and biases. For instance, there is an emphasis on theoretical material. Most of the references included here are something that I have at least partially (and sometimes extensively) studied; and found helpful. Others are on my to-read list. **Several topics are omitted** due to lack of expertise (e.g., causal inference, Bayesian statistics, time series, sequential decision-making, functional data analysis, biostatistics, ...).
 
 - The links are to freely available author copies if those are available, or to online marketplaces otherwise (you are encouraged to search for the best price).
