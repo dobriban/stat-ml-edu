@@ -82,8 +82,9 @@ This section is the most detailed one, as it is the closest to my research.
 - [Orabona: A Modern Introduction to Online Learning](https://arxiv.org/abs/1912.13213)
 
 ## Deep Learning
-### DL Practice
+### DL Practice and Conceptual Understanding
 - [Courses at Deeplearning.ai](https://www.deeplearning.ai/)
+- [DeepMind x UCL | Deep Learning Lecture Series 2021 Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 
 ### DL Theory 
 This is subject to active development and research. There is no complete reference.
