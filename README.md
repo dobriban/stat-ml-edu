@@ -85,6 +85,7 @@ This section is the most detailed one, as it is the closest to my research.
 ### DL Practice and Conceptual Understanding
 - [Courses at Deeplearning.ai](https://www.deeplearning.ai/)
 - [DeepMind x UCL | Deep Learning Lecture Series 2021 Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+- [Prince: Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
 ### DL Theory 
 This is subject to active development and research. There is no complete reference.
