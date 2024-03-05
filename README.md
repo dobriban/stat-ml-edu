@@ -87,6 +87,10 @@ This section is the most detailed one, as it is the closest to my research.
 - [DeepMind x UCL | Deep Learning Lecture Series 2021 Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 - [Prince: Understanding Deep Learning](https://udlbook.github.io/udlbook/). Free PDF, code notebooks, and slides available on author website.
 
+### Safe AI
+- [ML Safety Course at Center for AI Safety](https://course.mlsafety.org). See [video lectures on Youtube](https://www.youtube.com/watch?v=i_dbiGMHKMA&list=PLXSn3Zz2ayT6vBkCE6QqPvR6FHuK2COaD).
+- Elad Hazan's [AI Safety Course](https://sites.google.com/view/cos598aisafety/) at Princeton
+
 ### DL Theory 
 This is subject to active development and research. There is no complete reference.
 - [Telgarsky: Deep learning theory lecture notes](https://mjt.cs.illinois.edu/dlt/)
