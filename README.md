@@ -83,9 +83,10 @@ This section is the most detailed one, as it is the closest to my research.
 
 ## Deep Learning
 ### DL Practice and Conceptual Understanding
-- [Courses at Deeplearning.ai](https://www.deeplearning.ai/)
+- [Courses at Deeplearning.ai](https://www.deeplearning.ai/). Their course on Intro to Deep Learning with Andrew Ng is great.
+- Andrej Karpathy's [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) video lectures. 100% coding-based, hands-on tutorial on implementing basic autodiff, neural nets, language models, and a small version of GPT. 
 - [DeepMind x UCL | Deep Learning Lecture Series 2021 Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
-- [Prince: Understanding Deep Learning](https://udlbook.github.io/udlbook/). Free PDF, code notebooks, and slides available on author website.
+- [Prince: Understanding Deep Learning](https://udlbook.github.io/udlbook/). Free PDF book, code notebooks, and slides available on author website.
 
 ### Safe AI
 - [ML Safety Course at Center for AI Safety](https://course.mlsafety.org). See [video lectures on Youtube](https://www.youtube.com/watch?v=i_dbiGMHKMA&list=PLXSn3Zz2ayT6vBkCE6QqPvR6FHuK2COaD).
