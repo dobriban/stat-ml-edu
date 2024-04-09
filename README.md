@@ -98,6 +98,7 @@ This is subject to active development and research. There is no complete referen
 
 ## Language Models
 - [Raschka: LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch/tree/main)
+- UC Berkely Course [Understanding Large Language Models: Foundations and Safety](https://rdi.berkeley.edu/understanding_llms/s24)
 
 ## Uncertainty quantification
 - [Dobriban's course materials for STAT 991](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning) - Contains detailed references to materials on uncertainty quantification for ML, including conformal prediction/predictive inference and calibration.
