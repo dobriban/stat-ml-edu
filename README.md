@@ -97,6 +97,7 @@ This is subject to active development and research. There is no complete referen
 - [Telgarsky: Deep learning theory lecture notes](https://mjt.cs.illinois.edu/dlt/)
 
 ## Language Models
+- The corresponding sections in the [Understanding Deep Learning](https://udlbook.github.io/udlbook/) book. See also the associated tutorial posts: [LLMs](https://www.borealisai.com/research-blogs/a-high-level-overview-of-large-language-models/); Transformers [1](https://www.borealisai.com/research-blogs/tutorial-14-transformers-i-introduction/), [2](https://www.borealisai.com/research-blogs/tutorial-16-transformers-ii-extensions/), [3](https://www.borealisai.com/research-blogs/tutorial-17-transformers-iii-training/); [Training and fine-tuning](https://www.borealisai.com/research-blogs/training-and-fine-tuning-large-language-models/);  [Inference](https://www.borealisai.com/research-blogs/speeding-up-inference-in-transformers/)
 - [Raschka: LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch/tree/main)
 - UC Berkely Course [Understanding Large Language Models: Foundations and Safety](https://rdi.berkeley.edu/understanding_llms/s24)
 
