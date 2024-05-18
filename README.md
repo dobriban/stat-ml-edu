@@ -34,9 +34,6 @@ The goal is to benefit **students, researchers seeking to enter new areas, and l
 ## Statistical Methodology
 - [Hastie, Tibshirani & Friedman: The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf) - The bible of modern statistical methodology, comprehensive coverage from linear methods to kernels, basis expansions, trees/forests, model selection, high-dimensional methods, etc. Emphasizes ideas over math. Free on author's website. Known as "ESL".
 
-## Applications and case studies 
-- [Peck et al: Statistics - A Guide to the Unknown](https://www.stat.berkeley.edu/~nolan/SAGTU/index.html) - Engaging essays about applications of statistics in diverse areas: public policy, science & tech, bio & medicine, business & industry, hobbies & recreation. Elementary (minimal to no prerequisites), and written in a way that "draws you in".
-- [Morton et al: Public Policy and Statistics: Case Studies from RAND](https://www.amazon.com/Public-Policy-Statistics-Behavioral-Sciences/dp/0387987770/)
 
 ## Statistical Theory
 ### Core Theory: First Year PhD Curriculum
@@ -77,6 +74,12 @@ This section is the most detailed one, as it is the closest to my research.
 - [Mei: Lecture Notes for Mean Field Asymptotics in Statistical Learning](https://www.stat.berkeley.edu/~songmei/Teaching/STAT260_Spring2021/index.html) - Good overview of various techniques in the area: replica methods, Gaussian comparison inequalities/Convex Gaussian Minimax Theorem, Stieltjes transforms for random matrices, and approximate message passing (AMP). Several applications to stats+ML are presented.
 - [Couillet & Debbah: Random Matrix Methods for Wireless Communications](https://www.amazon.com/Random-Matrix-Methods-Wireless-Communications/dp/1107011639) - The first section is a good overview of the most commonly used RMT techniques and results for stats+ML. Strikes an ideal balance between rigor and clarity (Statements are rigorous, detailed proof sketches are presented, but some of the most technical proof components are omitted and references to papers are given).
 - [Bai & Silverstein: Spectral Analysis of Large Dimensional Random Matrices](https://www.amazon.com/Spectral-Analysis-Dimensional-Matrices-Statistics/dp/1441906606) - A standard reference in the field, with citable results stated at full generality, and with proofs. Nonetheless, requires filling in details of calculations/arguments, which can take a lot of effort for students.
+
+## Applications and case studies 
+- [Peck et al: Statistics - A Guide to the Unknown](https://www.stat.berkeley.edu/~nolan/SAGTU/index.html) - Engaging essays about applications of statistics in diverse areas: public policy, science & tech, bio & medicine, business & industry, hobbies & recreation. Elementary (minimal to no prerequisites), and written in a way that "draws you in".
+- [Morton et al: Public Policy and Statistics: Case Studies from RAND](https://www.amazon.com/Public-Policy-Statistics-Behavioral-Sciences/dp/0387987770/)
+- Peck et al.: Statistical Case Studies: A Collaboration Between Academe and Industry [Student Edition](https://www.amazon.com/Statistical-Case-Studies-Student-Collaboration/dp/0898714214). [Instructor Edition](https://www.amazon.com/Statistical-Case-Studies-Instructor-Collaboration/dp/0898714133).
+
 
 # Machine Learning
 
