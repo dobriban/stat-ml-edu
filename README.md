@@ -34,6 +34,9 @@ The goal is to benefit **students, researchers seeking to enter new areas, and l
 ## Statistical Methodology
 - [Hastie, Tibshirani & Friedman: The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf) - The bible of modern statistical methodology, comprehensive coverage from linear methods to kernels, basis expansions, trees/forests, model selection, high-dimensional methods, etc. Emphasizes ideas over math. Free on author's website. Known as "ESL".
 
+## Applications and case studies 
+- [Peck et al: Statistics - A Guide to the Unknown](https://www.stat.berkeley.edu/~nolan/SAGTU/index.html) - Engaging essays about applications of statistics in diverse areas: public policy, science & tech, bio & medicine, business & industry, hobbies & recreation. Elementary (minimal to no prerequisites), and written in a way that "draws you in". 
+
 ## Statistical Theory
 ### Core Theory: First Year PhD Curriculum
 - [Lehmann & Casella: Theory of Point Estimation, 2nd Edition](https://www.amazon.com/Theory-Point-Estimation-Springer-Statistics/dp/0387985026) - Solid mathematically rigoros overview of point estimation theory. Known as "TPE".
