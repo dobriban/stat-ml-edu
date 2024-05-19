@@ -37,7 +37,7 @@ The goal is to benefit **students, researchers seeking to enter new areas, and l
 
 ## Statistical Theory
 ### Core Theory: First Year PhD Curriculum
-- [Lehmann & Casella: Theory of Point Estimation, 2nd Edition](https://www.amazon.com/Theory-Point-Estimation-Springer-Statistics/dp/0387985026) - Solid mathematically rigoros overview of point estimation theory. Known as "TPE".
+- [Lehmann & Casella: Theory of Point Estimation, 2nd Edition](https://www.amazon.com/Theory-Point-Estimation-Springer-Statistics/dp/0387985026) - Solid mathematically rigorous overview of point estimation theory. Known as "TPE".
 - [Lehmann & Casella: Testing Statistical Hypotheses, 4th Edition](https://www.amazon.com/Testing-Statistical-Hypotheses-Springer-Statistics-dp-3030705773/dp/3030705773) - A complement to TPE, covers the theory of inference (hypothesis tests and confidence intervals). Known as "TSH".
 - [van der Vaart: Asymptotic Statistics](https://www.amazon.com/Asymptotic-Statistics-Statistical-Probabilistic-Mathematics/dp/0521784506) - Covers classical fixed-dimensional asymptotics.
 - [Candes: Theory of Statistics, STAT 300C Lecture Notes](https://candes.su.domains/teaching/stats300c/) - Modern statistical theory: sparsity, detection thresholds, multiple testing, false discovery rate control, Benjamini-Hochberg procedure, model selection, conformal prediction, etc.
